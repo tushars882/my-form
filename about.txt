@@ -1,0 +1,7 @@
+we simply cannot change anything in state so we need to have an onchange event handler which looks for any chnage in the state
+
+-we will introduce eventhandling for every element in the form 
+-we make the sunmission of the form by creating an event oncick and preventing the page from being refreshed by prevent defaultnand whatever we input will be savd in an object of submit
+
+
+-use of spreadOperator=>(...)to shorten the array objects;the spread  operator allows us to copy all elements from the existing array or  object into another array or object.
